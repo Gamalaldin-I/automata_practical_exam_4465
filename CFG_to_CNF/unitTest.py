@@ -1,6 +1,6 @@
 import unittest
 from collections import defaultdict
-from Code import CFGtoCNFConverter  
+from CNFConverter import CFGtoCNFConverter  
 
 class TestCFGtoCNFConverter(unittest.TestCase):
     def setUp(self):
