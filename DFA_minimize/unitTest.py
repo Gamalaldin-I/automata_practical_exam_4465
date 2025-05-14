@@ -1,5 +1,5 @@
 import unittest
-from DFAminimizer import DFA  
+from DFAMinimizer import DFA  
 
 class TestDFAMinimization(unittest.TestCase):
     def setUp(self):
